@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "SpectralPay",
   description: "SpectalPay is a banking platform for everyone.",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/spectralpaylogo.png'
   }
 };
 
